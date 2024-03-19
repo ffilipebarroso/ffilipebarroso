@@ -1,4 +1,4 @@
-## Bem vindos ao meu perfil, sou o Filipe Barroso 😁
+## Filipe Barroso 
 
  <div>
    <a href="https://github.com/ffilipebarroso">
